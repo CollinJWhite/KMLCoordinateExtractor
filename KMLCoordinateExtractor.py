@@ -27,6 +27,7 @@ def get_input_file():
             print('Invalid file path. Try Again.')
     return directory
 
+#writes a CSV file to the working directory with the given name
 def write_CSV(CSVName):
     try:
         with open(f'{CSVName}.csv', mode="w", newline="", encoding="utf-8") as file: 
