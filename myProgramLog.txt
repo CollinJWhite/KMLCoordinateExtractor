@@ -1,0 +1,4 @@
+ 2026-02-12 21:07:10,541 - INFO- Start of Program
+ 2026-02-12 21:07:25,802 - INFO- 
+ 2026-02-12 21:07:25,803 - INFO- Writing to CSV File...
+ 2026-02-12 21:07:25,804 - INFO- CSV file SampleCSV.csv written successfully
